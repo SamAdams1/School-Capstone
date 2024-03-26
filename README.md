@@ -1,8 +1,8 @@
-## Sam Adams Capstone for Manchester Community College
+# Sam Adams Capstone for Manchester Community College
 
 You can find the executable in the file called Sam-Capstone.zip
 
-# Steps to using the program:
+## Steps to using the program:
 1. Clone repo or download files onto your system.
 2. Navigate to the Sam-Capstone.zip file.
 3. Open SAdams135-Capstone.cpython-312.
